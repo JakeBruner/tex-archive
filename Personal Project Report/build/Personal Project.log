@@ -1,0 +1,419 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.11.20)  23 MAY 2021 16:59
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"Personal Project.tex"
+(./Personal Project.tex
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-10-27> xparse <2020-03-03>
+(c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(c:/texlive/2020/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(c:/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(c:/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(c:/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count183
+\Gm@cntv=\count184
+\c@Gm@tempcnt=\count185
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks16
+)
+(c:/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen147
+))
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen148
+)
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count186
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count187
+\leftroot@=\count188
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count189
+\DOTSCASE@=\count190
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen149
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count191
+\c@MaxMatrixCols=\count192
+\dotsspace@=\muskip16
+\c@parentequation=\count193
+\dspbrk@lvl=\count194
+\tag@help=\toks20
+\row@=\count195
+\column@=\count196
+\maxfields@=\count197
+\andhelp@=\toks21
+\eqnshift@=\dimen150
+\alignsep@=\dimen151
+\tagshift@=\dimen152
+\tagwidth@=\dimen153
+\totwidth@=\dimen154
+\lineht@=\dimen155
+\@envbody=\toks22
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(c:/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(c:/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen156
+\Gin@req@width=\dimen157
+)
+(c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count198
+\l__pdf_internal_box=\box49
+)
+(build/Personal Project.aux)
+\openout1 = `"Personal Project.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(90.3375pt, 433.62001pt, 90.3375pt)
+* v-part:(T,H,B)=(90.3375pt, 614.295pt, 90.3375pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=433.62001pt
+* \textheight=614.295pt
+* \oddsidemargin=18.0675pt
+* \evensidemargin=18.0675pt
+* \topmargin=-18.9325pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count199
+\scratchdimen=\dimen158
+\scratchbox=\box50
+\nofMPsegments=\count266
+\nofMParguments=\count267
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count268
+\MPscratchDim=\dimen159
+\MPnumerator=\count269
+\makeMPintoPDFobject=\count270
+\everyMPtoPDFconversion=\toks25
+) (c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(c:/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)) [1
+
+{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(build/Personal Project.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
+
+(c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
+
+(c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write3
+\openout3 = `"Personal Project.toc"'.
+
+ [1] [2] [3] [4]
+
+! LaTeX Error: File `rubric' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.71 \includegraphics[scale=.53]{rubric}
+                                        
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[5] [6] [7] [8] [9]
+<survey responses.png, id=38, 1062.97125pt x 434.62375pt>
+File: survey responses.png Graphic file (type png)
+<use survey responses.png>
+Package pdftex.def Info: survey responses.png  used on input line 115.
+(pdftex.def)             Requested size: 425.18097pt x 173.8464pt.
+ [10] [11 <./survey responses.png>] [12] [13]
+<1.png, id=54, 644.4075pt x 350.30875pt>
+File: 1.png Graphic file (type png)
+<use 1.png>
+Package pdftex.def Info: 1.png  used on input line 136.
+(pdftex.def)             Requested size: 418.85991pt x 227.69798pt.
+<2.png, id=55, 657.45625pt x 294.09875pt>
+File: 2.png Graphic file (type png)
+<use 2.png>
+Package pdftex.def Info: 2.png  used on input line 137.
+(pdftex.def)             Requested size: 427.3415pt x 191.16191pt.
+<3.png, id=56, 657.45625pt x 282.05376pt>
+File: 3.png Graphic file (type png)
+<use 3.png>
+Package pdftex.def Info: 3.png  used on input line 138.
+(pdftex.def)             Requested size: 427.3415pt x 183.33276pt.
+ [14 <./1.png> <./2.png>]
+<4.png, id=62, 648.4225pt x 265.99374pt>
+File: 4.png Graphic file (type png)
+<use 4.png>
+Package pdftex.def Info: 4.png  used on input line 139.
+(pdftex.def)             Requested size: 421.46964pt x 172.89388pt.
+ [15 <./3.png> <./4.png>]
+<calender.png, id=68, 465.74pt x 612.2875pt>
+File: calender.png Graphic file (type png)
+<use calender.png>
+Package pdftex.def Info: calender.png  used on input line 145.
+(pdftex.def)             Requested size: 442.45049pt x 581.66983pt.
+
+Overfull \hbox (8.83047pt too wide) in paragraph at lines 145--146
+ [] 
+ []
+
+
+Overfull \vbox (11.32492pt too high) has occurred while \output is active []
+
+
+[16 <./calender.png>]
+<email1.png, id=73, 1169.36874pt x 620.3175pt>
+File: email1.png Graphic file (type png)
+<use email1.png>
+Package pdftex.def Info: email1.png  used on input line 150.
+(pdftex.def)             Requested size: 502.81876pt x 266.73132pt.
+<email2.png, id=74, 1152.305pt x 544.0325pt>
+File: email2.png Graphic file (type png)
+<use email2.png>
+Package pdftex.def Info: email2.png  used on input line 152.
+(pdftex.def)             Requested size: 495.48149pt x 233.92941pt.
+<email3.png, id=75, 1158.3275pt x 546.04pt>
+File: email3.png Graphic file (type png)
+<use email3.png>
+Package pdftex.def Info: email3.png  used on input line 154.
+(pdftex.def)             Requested size: 498.07112pt x 234.79262pt.
+
+Overfull \hbox (37.66661pt too wide) in paragraph at lines 149--155
+ |  [] 
+ []
+
+
+Overfull \hbox (30.32935pt too wide) in paragraph at lines 149--155
+ |  [] 
+ []
+
+
+Overfull \hbox (32.91898pt too wide) in paragraph at lines 149--155
+ |  [] 
+ []
+
+[17 <./email1.png> <./email2.png>] [18 <./email3.png>]
+<form.png, id=86, 327.2225pt x 739.76375pt>
+File: form.png Graphic file (type png)
+<use form.png>
+Package pdftex.def Info: form.png  used on input line 161.
+(pdftex.def)             Requested size: 261.77835pt x 591.8118pt.
+
+Overfull \vbox (1.06679pt too high) has occurred while \output is active []
+
+
+[19 <./form.png>]
+<responses.png, id=91, 1320.935pt x 574.145pt>
+File: responses.png Graphic file (type png)
+<use responses.png>
+Package pdftex.def Info: responses.png  used on input line 167.
+(pdftex.def)             Requested size: 528.36464pt x 229.65393pt.
+
+Overfull \hbox (46.14067pt too wide) in paragraph at lines 166--168
+ |  [] 
+ []
+
+[20 <./responses.png>]
+<planning.png, id=96, 599.23875pt x 646.415pt>
+File: planning.png Graphic file (type png)
+<use planning.png>
+Package pdftex.def Info: planning.png  used on input line 174.
+(pdftex.def)             Requested size: 509.35535pt x 549.45535pt.
+
+Overfull \hbox (35.6673pt too wide) in paragraph at lines 173--175
+ |  [] 
+ []
+
+[21 <./planning.png>]
+
+! LaTeX Error: File `rubric' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.181 \includegraphics[scale=.6]{rubric}
+                                        
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[22]
+<selfassess.png, id=104, 626.34pt x 645.41125pt>
+File: selfassess.png Graphic file (type png)
+<use selfassess.png>
+Package pdftex.def Info: selfassess.png  used on input line 188.
+(pdftex.def)             Requested size: 501.07266pt x 516.32971pt.
+
+Overfull \hbox (30.23006pt too wide) in paragraph at lines 187--189
+ |  [] 
+ []
+
+[23 <./selfassess.png>]
+<citations.png, id=109, 520.94624pt x 555.07375pt>
+File: citations.png Graphic file (type png)
+<use citations.png>
+Package pdftex.def Info: citations.png  used on input line 195.
+(pdftex.def)             Requested size: 520.94498pt x 555.07237pt.
+
+Overfull \hbox (47.25693pt too wide) in paragraph at lines 194--196
+ |  [] 
+ []
+
+[24 <./citations.png>] (build/Personal Project.aux) ) 
+Here is how much of TeX's memory you used:
+ 2996 strings out of 479485
+ 40022 string characters out of 5875909
+ 323542 words of memory out of 5000000
+ 19972 multiletter control sequences out of 15000+600000
+ 544054 words of font info for 61 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 66i,7n,72p,3527b,267s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2020/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2020/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmti12.pfb>
+Output written on "build/Personal Project.pdf" (25 pages, 5253204 bytes).
+PDF statistics:
+ 130 PDF objects out of 1000 (max. 8388607)
+ 70 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+

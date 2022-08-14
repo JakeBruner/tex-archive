@@ -1,0 +1,4 @@
+\contentsline {section}{\numberline {1}Data Table}{2}{section.1}%
+\contentsline {section}{\numberline {2}Graphs}{3}{section.2}%
+\contentsline {section}{\numberline {3}Predicting Values}{5}{section.3}%
+\contentsline {section}{\numberline {4}Comparing Experimental and Theoretical}{6}{section.4}%

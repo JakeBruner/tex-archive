@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {1}Problem Statement}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Task}{2}{}%
+\contentsline {subsection}{\numberline {1.2}Required components}{2}{}%
+\contentsline {section}{\numberline {2}Mathematical Model of a Pendulum}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Accurate Model}{3}{}%
+\contentsline {subsection}{\numberline {2.2}Small Angle Approximation}{4}{}%
+\contentsline {section}{\numberline {3}The Nature of the Solutions}{5}{}%
+\contentsline {subsection}{\numberline {3.1}Exact General Solutions}{5}{}%
+\contentsline {subsection}{\numberline {3.2}General Solution for Small Angles}{5}{}%
+\contentsline {subsection}{\numberline {3.3}Implications}{7}{}%
+\contentsline {section}{\numberline {4}Modeling the Problem}{8}{}%
+\contentsline {subsection}{\numberline {4.1}Givens}{8}{}%
+\contentsline {subsection}{\numberline {4.2}Determining Radius}{9}{}%
+\contentsline {subsection}{\numberline {4.3}Determining Arc Length}{9}{}%
+\contentsline {subsection}{\numberline {4.4}Final Answer}{9}{}%
+\contentsline {section}{\numberline {5}Reflection on Results}{10}{}%
+\contentsline {subsection}{\numberline {5.1}Accuracy of Predictions}{10}{}%
+\contentsline {subsection}{\numberline {5.2}Context Within the Real World}{11}{}%

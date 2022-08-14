@@ -1,0 +1,32 @@
+\contentsline {section}{\numberline {1}Investigating}{2}%
+\contentsline {subsection}{\numberline {1.1}Goal, Global Context, Personal Interest}{2}%
+\contentsline {paragraph}{}{2}%
+\contentsline {paragraph}{}{2}%
+\contentsline {subsection}{\numberline {1.2}Prior Learning}{3}%
+\contentsline {paragraph}{}{3}%
+\contentsline {subsection}{\numberline {1.3}Research Skills}{4}%
+\contentsline {paragraph}{}{4}%
+\contentsline {section}{\numberline {2}Planning}{5}%
+\contentsline {subsection}{\numberline {2.1}Criteria}{5}%
+\contentsline {paragraph}{}{6}%
+\contentsline {subsection}{\numberline {2.2}Planning of the Development Process}{6}%
+\contentsline {paragraph}{}{6}%
+\contentsline {subsection}{\numberline {2.3}Self-Management}{7}%
+\contentsline {paragraph}{}{7}%
+\contentsline {section}{\numberline {3}Taking Action}{8}%
+\contentsline {subsection}{\numberline {3.1}Product}{8}%
+\contentsline {paragraph}{}{8}%
+\contentsline {subsection}{\numberline {3.2}Thinking Skills}{10}%
+\contentsline {paragraph}{}{10}%
+\contentsline {subsection}{\numberline {3.3}Social and Communication Skills}{10}%
+\contentsline {paragraph}{}{10}%
+\contentsline {section}{\numberline {4}Reflecting}{11}%
+\contentsline {subsection}{\numberline {4.1}Evaluating the Product}{11}%
+\contentsline {paragraph}{}{11}%
+\contentsline {subsection}{\numberline {4.2}Understanding the Topic, Global Context, and Myself}{12}%
+\contentsline {paragraph}{}{12}%
+\contentsline {subsection}{\numberline {4.3}IB Learner Profile}{13}%
+\contentsline {paragraph}{}{13}%
+\contentsline {paragraph}{}{14}%
+\contentsline {section}{\numberline {5}Appendix}{15}%
+\contentsline {section}{\numberline {6}Bibliography}{25}%

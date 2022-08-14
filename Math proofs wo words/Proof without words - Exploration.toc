@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}Introduction and Aim}{2}{}%
+\contentsline {section}{\numberline {2}Understanding Proof Through Pythagoras}{3}{}%
+\contentsline {subsection}{\numberline {2.1}The First Proof \textit {circa} 200 BCE}{3}{}%
+\contentsline {subsection}{\numberline {2.2}Comparison to Alternative Methods}{5}{}%
+\contentsline {subsection}{\numberline {2.3}Are Proofs-Without-Words Proofs?}{6}{}%
+\contentsline {subsection}{\numberline {2.4}Exemplifying the Beauty of Wordless Proof}{7}{}%
+\contentsline {section}{\numberline {3}When Visual Proof Becomes Hectic}{9}{}%
+\contentsline {section}{\numberline {4}Conclusion}{12}{}%
